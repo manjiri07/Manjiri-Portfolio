@@ -11,3 +11,4 @@ I have encountered many situations in the past where I was unable to convey the 
 
 ## OECD Data Visualizations 
 [Link to page](https://manjiri07.github.io/OECD_viz/)
+[Link to Page](Manjiri-Portfolio/OECD_viz.md)
