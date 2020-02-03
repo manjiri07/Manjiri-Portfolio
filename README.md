@@ -22,5 +22,5 @@ In order to obtain more surveillance data, the program encourages providers part
 
 I thought that the visualization that showed a clear upward trend was a bit misguiding. It showed a false sense of progress when in fact the reporting of data has occured just because more providers are now reporting through a different unrelated EHR Incentive Program. I wanted to try different ways to show the visualization without confusing the user yet reporting the data correctly. 
 
-[IMG_20200202_222605](https://user-images.githubusercontent.com/30089420/73625481-1478b780-4613-11ea-9a24-ea8f4f239fbf.jpg)
+![IMG_20200202_222605](https://user-images.githubusercontent.com/30089420/73625481-1478b780-4613-11ea-9a24-ea8f4f239fbf.jpg)
 
