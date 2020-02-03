@@ -34,5 +34,5 @@ I finally decided to show two separate graphs:
 
 2) However, the number of Medicare providers reporting has increased not because existing providers in the program have started reporting but because new providers were added to another program linked to the Million Hearts program. 
 
-
+<img width="1064" alt="Screen Shot 2020-02-02 at 11 48 25 PM" src="https://user-images.githubusercontent.com/30089420/73626405-c960a380-4616-11ea-9abe-467aaa3a2be0.png">
 
