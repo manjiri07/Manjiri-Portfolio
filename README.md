@@ -30,9 +30,10 @@ I finally decided to show two separate graphs:
 
 1) Indicating that the number of hypertensive patients being reported is higher because the number of Medicare providers reporting them have increased. 
 
-![fig2](https://user-images.githubusercontent.com/30089420/73626237-39225e80-4616-11ea-9a29-c568a68e4789.png)
+<img width="1063" alt="blah" src="https://user-images.githubusercontent.com/30089420/73626466-fd3bc900-4616-11ea-8257-e2ae43381cbf.png">
 
 2) However, the number of Medicare providers reporting has increased not because existing providers in the program have started reporting but because new providers were added to another program linked to the Million Hearts program. 
 
-<img width="1064" alt="Screen Shot 2020-02-02 at 11 48 25 PM" src="https://user-images.githubusercontent.com/30089420/73626405-c960a380-4616-11ea-9abe-467aaa3a2be0.png">
+
+<img width="1064" alt="Screen Shot 2020-02-02 at 11 48 25 PM" src="https://user-images.githubusercontent.com/30089420/73626493-180e3d80-4617-11ea-8ddc-297f97b60b7b.png">
 
