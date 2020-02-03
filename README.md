@@ -22,7 +22,7 @@ In order to obtain more surveillance data, the program encourages providers part
 
 I thought that the visualization that showed a clear upward trend was a bit misguiding. It showed a false sense of progress when in fact the reporting of data has occured just because more providers are now reporting through a different unrelated EHR Incentive Program. I wanted to try different ways to show the visualization without confusing the user yet reporting the data correctly. Following are a few ways I tried to figure out a way to recreate the visualization:
 
-<inster image>
+![IMG_20200202_233803](https://user-images.githubusercontent.com/30089420/73626117-c31df780-4615-11ea-99f1-7a1acfd9ffc8.jpg)
 
 I first implemented a pie chart in tableau and tried to show to a few users. They only realized what I was trying to show after I explained it to them which was obviously not a good sign. I changed it then to a stacked bar graph. This was an improvement but it left out an important aspect that the number of reported hypertensive patients is increasing. I also did not want to combine the way they had done it because the line chart points were seemingly at randome places within the bar chart (At a first glance). 
 
@@ -30,9 +30,9 @@ I finally decided to show two separate graphs:
 
 1) Indicating that the number of hypertensive patients being reported is higher because the number of Medicare providers reporting them have increased. 
 
+
+
 2) However, the number of Medicare providers reporting has increased not because existing providers in the program have started reporting but because new providers were added to another program linked to the Million Hearts program.
-
-
 
 
 
