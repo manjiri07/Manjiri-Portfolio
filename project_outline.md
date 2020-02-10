@@ -26,6 +26,19 @@ We need better monitoring of risk factors for mothers and improved better care f
 
 #### Call to Action
 - Better Monitoring
-  - g
+  - Recognizing risk factors and social determinants of health early on 
 - Improved Coordination 
-- 
+  - Coordination between physicians, payors and other organizations to ensure better care for mothers 
+  
+ #### Outline Sketch 
+ 
+ 
+  
+  ### Data Sources 
+  
+  - [CDC Vital Signs Report](https://www.cdc.gov/vitalsigns/maternal-deaths/)
+  - [Racial and Socioeconomic Disparities in Maternal Mortality]( https://www.cdc.gov/mmwr/volumes/68/wr/mm6818e1.htm#T3_down)
+  - [Maternal mortality trends in the US](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5001799/)
+  - [Global maternal mortality rates](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)31470-2/fulltext)
+  - [CDC Causes of Maternal Deaths]()
+  
