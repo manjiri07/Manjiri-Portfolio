@@ -33,7 +33,7 @@ We need better monitoring of risk factors for mothers and improved better care f
   
  #### Outline Sketch 
  
- 
+ ![outline_sketch](https://user-images.githubusercontent.com/30089420/74118240-97a48b00-4b88-11ea-9afa-1fae74b8a1a4.jpg)
   
   ### Data Sources 
   
@@ -41,5 +41,5 @@ We need better monitoring of risk factors for mothers and improved better care f
   - [Racial and Socioeconomic Disparities in Maternal Mortality]( https://www.cdc.gov/mmwr/volumes/68/wr/mm6818e1.htm#T3_down)
   - [Maternal mortality trends in the US](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5001799/)
   - [Global maternal mortality rates](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)31470-2/fulltext)
-  - [CDC Causes of Maternal Deaths]()
-  - [OECD Healthcare Spending]()
+  - [CDC Causes of Maternal Deaths](OECD_healthcare_spending.csv)
+  - [OECD Healthcare Spending](casuses_of_pregnancy_related_deaths_in_the_united_states_2011_2016)
