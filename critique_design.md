@@ -1,3 +1,5 @@
+# Critique By Design
+
 For this exercise, I considered a visualization from the Million Hearts webpage The particular data visualization is related to the Medicare Reporting Coverage. The source of the data is from this link: https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6416a3.htm
 
 To give a bit of a background, The Million Hearts program is an initiative led by Centers for Disease Control and Prevention (CDC) and Centers for Medicare and Medicaid Services (CMS) to prevent heart attacks and strokes. One of their priorities is to increase the % of patients who have their blood pressure under control. Another initiative is to incentivize healthcare providers (clinics/ hospitals) to use Electronic Health Records to report a blood pressure health quality metric (NQF 0018).
@@ -19,3 +21,6 @@ Indicating that the number of hypertensive patients being reported is higher bec
 However, the number of Medicare providers reporting has increased not because existing providers in the program have started reporting but because new providers were added to another program linked to the Million Hearts program.
 
 <img width="1064" alt="Screen Shot 2020-02-02 at 11 48 25 PM" src="https://user-images.githubusercontent.com/30089420/74115704-6a52df80-4b7e-11ea-80b5-1d49a41b46c8.png">
+
+## Back to Main Page
+[Main Page](https://manjiri07.github.io/Manjiri-Portfolio/)
