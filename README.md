@@ -16,3 +16,5 @@ I have encountered many situations in the past where I was unable to convey the 
 
 [Link to Page](critique_design.md)
 
+## Project Part I
+[Link to Page](project_outline.md)
