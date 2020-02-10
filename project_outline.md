@@ -23,6 +23,7 @@ We need better monitoring of risk factors for mothers and improved better care f
 - Low income and education also has an effect on maternal mortality 
 - How does access of care relate to maternal mortality?
 - What are some of the causes of pregnancy related deaths
+- Create a persona 
 
 #### Call to Action
 - Better Monitoring
@@ -41,4 +42,4 @@ We need better monitoring of risk factors for mothers and improved better care f
   - [Maternal mortality trends in the US](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5001799/)
   - [Global maternal mortality rates](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)31470-2/fulltext)
   - [CDC Causes of Maternal Deaths]()
-  
+  - [OECD Healthcare Spending]()
