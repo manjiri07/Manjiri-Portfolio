@@ -55,3 +55,7 @@ I will be using Shorthand as the medium for this project. Following is the way I
 - Add any other images if required to each module 
 - Revise placement of content and visualization based on reader feedback 
 - Finalize shorthand content
+
+
+## Back to Main Page
+[Main Page](https://manjiri07.github.io/Manjiri-Portfolio/)
