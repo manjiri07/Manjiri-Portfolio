@@ -38,12 +38,18 @@ We need better monitoring of risk factors for mothers and improved better care f
 ### Data Sources 
   
   - [CDC Vital Signs Report](https://www.cdc.gov/vitalsigns/maternal-deaths/)
+    - CDC Vital Signs Report provides a summary of their maternal mortality data. The underlying data itself is not publicly available but the summary statistics are insightful.
   - [Racial and Socioeconomic Disparities in Maternal Mortality]( https://www.cdc.gov/mmwr/volumes/68/wr/mm6818e1.htm#T3_down)
+    - Using this data, I want to show that the maternal mortality rates are much higher for black women and those who belong to low income groups.
   - [Maternal mortality trends in the US](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5001799/)
+    - The way maternal mortality rates are calculated in the United States is still not well defined as compared to other countries. Hence, I had to go through different articles and methods to make sure I capture the correct rates. This article talks about the methods they used to calculate the final rates. 
   - [Global maternal mortality rates](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)31470-2/fulltext)
+    - This article talks more about global maternal mortality rates in general. I will be using the MMR data for US and other developed countries shown in one of the tables in this article. 
   - [CDC Causes of Maternal Deaths](causes_of_pregnancy_related_deaths_in_the_united_states_2011_2016)
+    - The CDC website had a section where it talked about the causes of deaths. I downloaded this csv file from their website. 
   - [OECD Healthcare Spending](OECD_healthcare_spending.csv)
-
+    - OECD website hosts rich datasets on different aspects of OECD countries. I downloaded the healthcare spending data from their website. 
+    
 ### Method and Medium
 
 I will be using Shorthand as the medium for this project. Following is the way I plan to complete the project:
