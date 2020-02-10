@@ -43,3 +43,15 @@ We need better monitoring of risk factors for mothers and improved better care f
   - [Global maternal mortality rates](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)31470-2/fulltext)
   - [CDC Causes of Maternal Deaths](causes_of_pregnancy_related_deaths_in_the_united_states_2011_2016)
   - [OECD Healthcare Spending](OECD_healthcare_spending.csv)
+
+### Method and Medium
+
+I will be using Shorthand as the medium for this project. Following is the way I plan to complete the project:
+- Create a more refined story (storyboarding) using balsamiq
+- Experiment different data visualizations using tableau to make sure I bring the reader's attention to the right details 
+- Setup modules in shorthand that I can fill in later 
+- For each module, refine what I want to talk about. Decide whether a visualization or a description or both would be required to get my point across to the reader
+- Add in the content and visualizations 
+- Add any other images if required to each module 
+- Revise placement of content and visualization based on reader feedback 
+- Finalize shorthand content
