@@ -46,7 +46,7 @@ Following is the protocol that I used to interview the two individuals. For each
   
 ### Highlights from the Interviews 
 
-**Consultant** 
+#### Consultant
 3 key things that he remembered:
 - 60% of deaths are preventable 
 - There has been a rise in maternal mortality in the US
@@ -61,7 +61,7 @@ Following were the suggestions he gave with regards to the visualizations:
 
 Another point he mentioned was if it was possible for me to show the change in racial disparities over the years. It would be intresting to find out if the increase in maternal mortality can also be tracked by an increase in racial disparities. 
 
-**Healthcare Policy Student**
+#### Healthcare Policy Student
 3 key things that she remembered:
 - Black women have a higher morality rate
 - Better monitoring and care coordination required 
@@ -72,15 +72,15 @@ Since she was already familiar with the topic, she could easily follow the story
 Following were the suggestion she gave regarding the visualizations:
 - The titles of the charts and titles of the slide are repetitive
 - The axes labels are cut off 
-- Could it be better if you added the label to each of the lines in the Comparing with Different Countries 
+- Could it be better if you added the label to each of the lines in the Comparing with Different Countries visualization?
+
 
 ### Changes to the Wireframes and Visualizations
 Based on the feedback I received during the interviews, I revised the wireframes and the visualizations. 
 
-Following is the revised storyboard:
+Following are the revised wireframes:
 
-Following are the revised visualizations:
-
+I was unable to get Maternal Mortality data for different races for the past years. It would have definitely been an intersting comparison. 
 
 
 ### A Very Rough Outline in Shorthand
