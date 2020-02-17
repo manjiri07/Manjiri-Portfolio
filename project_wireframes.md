@@ -15,7 +15,7 @@ While creating the wireframes, I initially decided to embed the images of the vi
  ## Initial Visulizations 
  
  
- ## User Research Protocol 
+## User Research Protocol 
  
 ### Target Audience
 When I developed the story for this topic, the audience I had in mind were those who worked in the healthcare sector (providers, insurers, policy makers) and who were in a position to effect changes at some level in the healthcare system. This could be administrators who can bring about change at the hospital level or insurance companies that can target certain populations or even policy makers who can revise policies to address this issue. 
@@ -34,7 +34,7 @@ Before developing the questions, I listed different things I wanted to find out 
 Following is the protocol that I used to interview the two individuals. For each question that I asked I have described how i asked it and what the purpose of it was.
 
 - What are the 3 key things you remember from the storyline?
-  - For this question, I showed the balsamiq storyboard to the interviewee for a minute and then asked 3 key ideas or pieces of information that they remember. Usually, when people go through a webpage, they don’t spend a whole amount of time reading through. They glance at it for a minute or so before deciding whether they want to know more. Through this exercise, I wanted to know if are able to pick out the most important ideas/ information easily. 
+  - For this question, I showed the balsamiq storyboard to the interviewee for a minute and then took it away. I then asked them about 3 key ideas or pieces of information that they remember from the storyboard. Usually, when people go through a webpage, they don’t spend a whole amount of time reading through. They glance at it for a minute or so before deciding whether they want to know more. Through this exercise, I wanted to know if are able to pick out the most important ideas/ information easily. 
   
 - What do you think the storyline is trying to tell?
   - For this question, I showed them the storyboard again and supplemented it with printed copies of the visulization associated with each mockup. This time, I gave them enough time to look through both the wireframes and the visualizations. 
