@@ -104,4 +104,4 @@ Following are the revised wireframes:
 I was unable to get Maternal Mortality data for different races for the past years. It would have definitely been an intersting visualization to compare the trends in maternal mortality based on race over the years. 
 
 ### A Very Rough Outline in Shorthand
-[Link to Page]()
+[Link to Page](https://carnegiemellon.shorthandstories.com/maternal_mortality_US/index.html)
