@@ -14,6 +14,8 @@ Individual wireframes with initial visualizations:
 
 ![New Wireframe 1](https://user-images.githubusercontent.com/30089420/74623600-3f830100-5113-11ea-863d-c04f00ee795b.png)
 
+![New Wireframe 13](https://user-images.githubusercontent.com/30089420/74623644-6b05eb80-5113-11ea-92f3-5aef5de67221.png)
+
 ![New Wireframe 2](https://user-images.githubusercontent.com/30089420/74623611-4a3d9600-5113-11ea-83d8-69ec89380d96.png)
 
 ![New Wireframe 3](https://user-images.githubusercontent.com/30089420/74623629-588bb200-5113-11ea-9450-ffdebf2eaf7d.png)
@@ -21,9 +23,6 @@ Individual wireframes with initial visualizations:
 ![New Wireframe 4](https://user-images.githubusercontent.com/30089420/74623635-60e3ed00-5113-11ea-8d3e-c2890a64bfde.png)
 
 ![New Wireframe 12](https://user-images.githubusercontent.com/30089420/74623639-64777400-5113-11ea-81ff-34aea2317655.png)
-
-![New Wireframe 13](https://user-images.githubusercontent.com/30089420/74623644-6b05eb80-5113-11ea-92f3-5aef5de67221.png)
-
  
 ## User Research Protocol 
  
@@ -94,8 +93,15 @@ Based on the feedback I received during the interviews, I revised the wireframes
 
 Following are the revised wireframes:
 
-I was unable to get Maternal Mortality data for different races for the past years. It would have definitely been an intersting comparison. 
+![New Wireframe 2 copy](https://user-images.githubusercontent.com/30089420/74623738-c9cb6500-5113-11ea-9eb6-c44e2d5007a1.png)
 
+![New Wireframe 3 copy](https://user-images.githubusercontent.com/30089420/74623747-d6e85400-5113-11ea-8dd4-f7fa9e906857.png)
+
+![New Wireframe 4 copy](https://user-images.githubusercontent.com/30089420/74623754-dea7f880-5113-11ea-9447-719b9331a1a2.png)
+
+![New Wireframe 12 copy](https://user-images.githubusercontent.com/30089420/74623755-e1a2e900-5113-11ea-97ad-c54823a9192d.png)
+
+I was unable to get Maternal Mortality data for different races for the past years. It would have definitely been an intersting comparison. 
 
 ### A Very Rough Outline in Shorthand
 [Link to Page]()
