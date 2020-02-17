@@ -18,3 +18,6 @@ I have encountered many situations in the past where I was unable to convey the 
 
 ## Project Part I
 [Link to Page](project_outline.md)
+
+## Project Part II
+[Link to Page](project_wireframes.md)
