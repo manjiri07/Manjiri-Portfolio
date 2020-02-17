@@ -105,3 +105,6 @@ I was unable to get Maternal Mortality data for different races for the past yea
 
 ### A Very Rough Outline in Shorthand
 [Link to Page](https://carnegiemellon.shorthandstories.com/maternal_mortality_US/index.html)
+
+## Back to Main Page
+[Main Page](https://manjiri07.github.io/Manjiri-Portfolio/)
