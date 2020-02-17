@@ -6,10 +6,24 @@ Based on the outline and sketches created in part 1, I attempted to storyboard t
   
 While creating the wireframes, I initially decided to embed the images of the visualizations in balsamiq. After experimenting with that I realized that it was cluttering the storyboard unecessarily and was not serving the intended purpose. I decided to instead use the balsamiq mockup text/graph to show the placement of the visualizations. Following is the image of the intial storyboard:
 
-
+![Storyboard](https://user-images.githubusercontent.com/30089420/74623540-064a9100-5113-11ea-827d-a0f149671f43.png)
   
  ## Initial Visulizations 
  
+Individual wireframes with initial visualizations:
+
+![New Wireframe 1](https://user-images.githubusercontent.com/30089420/74623600-3f830100-5113-11ea-863d-c04f00ee795b.png)
+
+![New Wireframe 2](https://user-images.githubusercontent.com/30089420/74623611-4a3d9600-5113-11ea-83d8-69ec89380d96.png)
+
+![New Wireframe 3](https://user-images.githubusercontent.com/30089420/74623629-588bb200-5113-11ea-9450-ffdebf2eaf7d.png)
+
+![New Wireframe 4](https://user-images.githubusercontent.com/30089420/74623635-60e3ed00-5113-11ea-8d3e-c2890a64bfde.png)
+
+![New Wireframe 12](https://user-images.githubusercontent.com/30089420/74623639-64777400-5113-11ea-81ff-34aea2317655.png)
+
+![New Wireframe 13](https://user-images.githubusercontent.com/30089420/74623644-6b05eb80-5113-11ea-92f3-5aef5de67221.png)
+
  
 ## User Research Protocol 
  
