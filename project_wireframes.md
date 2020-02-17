@@ -30,10 +30,10 @@ Before developing the questions, I listed different things I wanted to find out 
 Following is the protocol that I used to interview the two individuals. For each question I also prepared how I will ask the question and what the purpose of that question would be.
 
 - What are the 3 key things you remember from the storyline?
-  - For this question, I will show the balsamiq storyboard to the interviewee for a minute and then take it away. I will then ask them about 3 key ideas or pieces of information that they remember from the storyboard. Usually, when people go through a webpage, they don’t spend a whole amount of time reading through. They glance at it for a minute or so before deciding whether they want to know more. Through this exercise, I want to know if they are able to pick out the most important ideas/ information easily. 
+  - For this question, I will show the balsamiq storyboard to the interviewee for about 2 minutes and then take it away. I will then ask them about 3 key ideas or pieces of information that they remember from the storyboard. Usually, when people go through a webpage, they don’t spend a whole amount of time reading through. They glance at it for a minute or so before deciding whether they want to know more. Through this exercise, I want to know if they are able to pick out the most important ideas/ information easily. 
   
-- What do you think the storyline is trying to tell?
-  - For this question, I will show them the storyboard again and supplement it with printed copies of the visulization associated with each mockup. This time, I will give them enough time to look through both the wireframes and the visualizations. Through this question, I want to find out if the storyline makes sense to them. I also want to check if they do realize the importance of the topic. 
+- What is the story about?
+  - For this question, I will show them the storyboard again and add to it the visualizations associated with each mockup. This time, I will give them enough time to look through both the wireframes and the visualizations. Through this question, I want to find out if the storyline makes sense to them. I also want to check if they do realize the importance of the topic. 
 
 - Are the visualizations self-explanatory? 
   - The purpose of this question is to check if I need to change the way I have visualized the data or if I need to add more text in support of the visualization. 
@@ -44,4 +44,44 @@ Following is the protocol that I used to interview the two individuals. For each
  - Do you have any other suggestions to improve the story or any parts of it? 
   - If during the initial questions, they completely miss the storyline, I will at this point relate the story to them. I will then ask for suggestions to convey it in a better manner. If they did follow my storyline, I will ask them for general suggestions. 
   
+### Highlights from the Interviews 
 
+**Consultant** 
+3 key things that he remembered:
+- 60% of deaths are preventable 
+- There has been a rise in maternal mortality in the US
+- High spending in the US but still have a higher maternal mortality 
+
+His narration of the story brought out all the important points and he could follow the story with minimum details in the mockup. He was really shocked that the maternal mortality was on the rise in the United States. One interesting observation was that he was amazed at the fact that 60% of the deaths were preventable and kept bringing up that point multiple times. I wasn't sure if it was the placement of the statistic or actually the statistic that caught his attention. If I had the time, I would have tested placing the racial disparity statistic more prominently. 
+
+Following were the suggestions he gave with regards to the visualizations:
+- The text on the axes is cut off and hence is difficult to read
+- The % GDP graph was a bit difficult to understand and relate to the high MMR. He asked why I couldn't show the total healthcare spending? 
+- He also mentioned that it was difficult to find USA amongst the countries in the visualization
+
+Another point he mentioned was if it was possible for me to show the change in racial disparities over the years. It would be intresting to find out if the increase in maternal mortality can also be tracked by an increase in racial disparities. 
+
+**Healthcare Policy Student**
+3 key things that she remembered:
+- Black women have a higher morality rate
+- Better monitoring and care coordination required 
+- 60% of the deaths were preventable 
+
+Since she was already familiar with the topic, she could easily follow the story. Although she was aware of the rise in maternal mortality, she did not connect it to racial and educational disparities. When she narrated the story back to me she focused more on the factors contributing to the maternal mortality rather than the general details about maternal mortality. I felt like that was expected since she was already knew the topic. 
+
+Following were the suggestion she gave regarding the visualizations:
+- The titles of the charts and titles of the slide are repetitive
+- The axes labels are cut off 
+- Could it be better if you added the label to each of the lines in the Comparing with Different Countries 
+
+### Changes to the Wireframes and Visualizations
+Based on the feedback I received during the interviews, I revised the wireframes and the visualizations. 
+
+Following is the revised storyboard:
+
+Following are the revised visualizations:
+
+
+
+### A Very Rough Outline in Shorthand
+[Link to Page]()
