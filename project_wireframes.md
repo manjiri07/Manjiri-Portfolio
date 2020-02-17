@@ -12,7 +12,7 @@ While creating the wireframes, I initially decided to embed the images of the vi
 
 <insert image>
   
- ## Initial Visulizations 
+## Initial Visulizations 
  
  
 ## User Research Protocol 
