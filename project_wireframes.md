@@ -101,7 +101,7 @@ Following are the revised wireframes:
 
 ![New Wireframe 12 copy](https://user-images.githubusercontent.com/30089420/74623755-e1a2e900-5113-11ea-97ad-c54823a9192d.png)
 
-I was unable to get Maternal Mortality data for different races for the past years. It would have definitely been an intersting comparison. 
+I was unable to get Maternal Mortality data for different races for the past years. It would have definitely been an intersting visualization to compare the trends in maternal mortality based on race over the years. 
 
 ### A Very Rough Outline in Shorthand
 [Link to Page]()
