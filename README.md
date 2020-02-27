@@ -16,8 +16,13 @@ I have encountered many situations in the past where I was unable to convey the 
 
 [Link to Page](critique_design.md)
 
-## Project Part I
+## Maternal Mortality in the United States
+
+### The Idea (Part I)
 [Link to Page](project_outline.md)
 
-## Project Part II
+### Design and User Research (Part II)
 [Link to Page](project_wireframes.md)
+
+### Final Data Story (Part III)
+[Link to Page](final_story.md)
